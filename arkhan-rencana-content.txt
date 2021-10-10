@@ -2,9 +2,10 @@ RENCANA KONTEN MIRACLE CHANNEL
 
 - Mobile Legend 
   Gameplay Mobile Legend
-   ^ Goldlaner
+   ^ Core
    ^ Offlaner
   Tutorial Positioning
 - Pes Mobile
   ^ Tiki Taka
 - Dota 2
+- PUBG Mobile
