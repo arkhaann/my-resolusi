@@ -2,7 +2,9 @@ RENCANA KONTEN MIRACLE CHANNEL
 
 - Mobile Legend 
   Gameplay Mobile Legend
+   ^ Goldlaner
+   ^ Offlaner
   Tutorial Positioning
-- Tips n Trick of Game
 - Pes Mobile
+  ^ Tiki Taka
 - Dota 2
